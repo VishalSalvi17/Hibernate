@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\VishalS17\OneDrive - CitiusTech\Documents\Training_July2022\Specialization Training\Hibernate_Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2498250528.index
+691921155.index
+1535132401.index
+37260066.index
+3729373902.index
+4197199023.index
